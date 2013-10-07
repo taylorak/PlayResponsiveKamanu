@@ -1,0 +1,112 @@
+body {
+  padding-top: 70px;  /* Move body of page below navbar. */
+     color: #333333;
+    font-family: Lucida Grande,Lucida Sans,Verdana,Arial,sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.navbar {
+    background-image: url(../images/bg-carbon.jpg);
+    background-color: #EEEEEE;
+    background-repeat: repeat-x;
+    margin: 0;
+    padding: 0;
+    width: 100%;  
+}
+
+#page-content {
+    background-color: #000000;
+    min-height: 131px;
+    text-align: center;
+}
+
+#page-content h2 {
+    color: #666666;
+    font-family: Georgia,'Times New Roman',Times;
+    font-size: 3em;
+    font-weight: 700;
+    margin: 0;
+    padding: 1em 0 0;
+    text-align: center;
+    text-shadow: 0 0 0 #000000;
+}
+.navbar-brand {
+    border: 0 none;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+#header {
+    border: 0 none;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar-collapse {
+    float: left;
+    margin: 0 0 0 3.5em;
+    padding: 0;
+}
+
+.nav li {
+    border-left: 1px dotted #666666;
+    float: left;
+    height: 81px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: 11em;
+}
+.nav li a {
+    color: #E5EDDC;
+    display: block;
+    font-family: Lucida Grande,Lucida Sans,Verdana,Arial,sans-serif;
+    font-size: 1.25em;
+    font-weight: bold;
+    line-height: 56px;
+    padding: 25px 0 0;
+    text-decoration: none;
+}
+
+.nav li .active {
+  background: none;
+}
+
+#canoe {
+  height: 385px;
+  background-size: cover;
+  background-position: center;
+  background: url(../images/pueo-canoes-front.jpg);
+}
+
+#pueo {
+  height: 385px;
+  background-size: contain;
+  background-position: center;
+  background: url(../images/cover-pueo-page.jpg);
+}
+
+#aukahi {
+  height: 385px;
+  background-size: cover;
+  background-position: center;
+  background: url(../images/cover-aukahi.jpg);
+}
+
+#about {
+  height: 385px;
+  background-size: cover;
+  background-position: center;
+  background: url(../images/cover-v6-page.jpg);
+}
+
+#kamanu {
+  height: 385px;
+  background-size: cover;
+  background-position: center;
+  background: url(../images/cover-about-eono.jpg);
+}
+
