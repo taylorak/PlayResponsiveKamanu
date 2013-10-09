@@ -1,4 +1,4 @@
-![screenshot](doc/Kamanu.png)
+![screenshot](https://raw.github.com/taylorak/PlayResponsiveKamanu/master/doc/Kamanu.png)
 
 ##Overview
 This is a Play application that implements a mockup of the Kamanu Composites Website using 
